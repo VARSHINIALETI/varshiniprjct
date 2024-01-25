@@ -1,5 +1,5 @@
 resource_group_name                                 = "My-Rg"
-resource_group_location                             = "East US"
+resource_group_location                             = "West US"
 acr_name                                            = "myyycrvvvv20768"
 acr_sku                                             = "Standard"
 acr_admin_enabled                                   =  false
