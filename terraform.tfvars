@@ -1,6 +1,6 @@
 resource_group_name                                 = "My-Rg"
 resource_group_location                             = "East US"
-acr_name                                            = "myyycrvv20768"
+acr_name                                            = "myyycrvvvv20768"
 acr_sku                                             = "Standard"
 acr_admin_enabled                                   =  false
 cluster_name                                        = "my-aks-cluster"
@@ -15,7 +15,7 @@ identity_type                                       = "SystemAssigned"
 lb_sku                                              = "standard"
 network_plugin                                      = "kubenet"
 dns_prefix                                          = "my-aks-cluster"
-  key_vault_name                                    = "vr5467keyvault"
+  key_vault_name                                    = "vrk5467keyvault"
 
   soft_delete_retention_days                        = 7
 
